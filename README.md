@@ -1,3 +1,5 @@
+SIMPLE REVERSE SHELL THAT DISABLES MICROSOFT DEFENDER
+
 To setup simply go to https://www.revshells.com/ and put your ip and port, choose powershell #3 (BASE64) or any of the other powershell options and upload it to your server with apache or do it locally on your device and deploy it online.
 
 The script first disables UAC and then Microsoft Defender.
